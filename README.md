@@ -4,6 +4,8 @@
 
 This is a full-stack web application designed to help farmers in Jipijapa-Manabí manage agroecological farming programs. The platform provides comprehensive farm management tools including crop planning, activity scheduling, resource calculation, knowledge sharing, and weather monitoring. The application is inspired by successful projects like Tierra BellBaum and Fundación Yachana.
 
+Hi world!
+
 ## User Preferences
 
 Preferred communication style: Simple, everyday language.
