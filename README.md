@@ -1,4 +1,4 @@
-# AgroEco Jipijapa - Agroecological Farm Management Platform
+# AgroEco Jipijapa - Agroecological Farm Management Platform 2025
 
 ## Overview
 
